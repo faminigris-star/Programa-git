@@ -1,0 +1,3 @@
+Frontend Pequitas - entrega GA6-220501096-AA4
+Abrir index.html para iniciar la aplicación.
+No requiere instalación de dependencias.
